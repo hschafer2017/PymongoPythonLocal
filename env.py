@@ -1,1 +1,0 @@
-MONGO_URI='mongodb+srv://haley:r00t@mytestcluster-n0lze.mongodb.net/test?retryWrites=true&w=majority'
